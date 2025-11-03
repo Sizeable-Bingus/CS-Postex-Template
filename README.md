@@ -18,4 +18,4 @@ The DLL can be execute from a Beacon using `execute-dll`:
 
 ## Example
 
-![](https://github.com/Sizeable-Bingus/CS-Postex-Template/img/console.png)
+![](https://github.com/Sizeable-Bingus/CS-Postex-Template/blob/main/img/console.png)
