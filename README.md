@@ -12,7 +12,7 @@ Optimizing for size:
 
 ## Usage
 
-The DLL can be execute from a Beacon using `execute-dll`:
+The DLL can be executed from a Beacon using `execute-dll`:
 
 `execute-dll /path/to/dll/postex.dll`
 
